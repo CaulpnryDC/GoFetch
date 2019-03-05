@@ -2,4 +2,4 @@ package main
 
 import "os"
 import "fmt"
-import "github.com/fatih/colors"
+import "github.com/fatih/color"
